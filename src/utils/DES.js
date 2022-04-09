@@ -14,7 +14,6 @@ export default {
     let ivHex = cryptoJs.enc.Utf8.parse(ivStr)
     var option = { iv: ivHex, mode: cryptoJs.mode.CBC, padding: cryptoJs.pad.Pkcs7 }
     var encrypted = cryptoJs.DES.encrypt(word, keyHex, option)
-    // console.log('加密',encrypted.toString())
     return encrypted.toString()
   },
   // 解密

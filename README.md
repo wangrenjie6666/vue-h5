@@ -1,5 +1,5 @@
 # mobile
-基于vueh5移动端的项目 采用des加密快速开发
+
 ## Project setup
 ```
 npm install
