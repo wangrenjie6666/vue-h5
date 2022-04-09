@@ -1,0 +1,44 @@
+// 定义颜色规范
+$black: #000;
+$blue: #008ffe;
+$white: #fff;
+$red: #ee0a24;
+$orange: #ff976a;
+$color-999: #999;
+$color-666: #666;
+$color-333: #333;
+$color-e6: #E6E6E6;
+$color-background-f2: #F2F2F2;
+$color-background: #f7f8fa;
+$color-background-d: rgba(0, 0, 0, 0.3);
+$color-highlight-background: #333;
+$color-dialog-background: #666;
+$color-theme: #ffcd32;
+$color-theme-d: rgba(255, 205, 49, 0.5);
+$color-sub-theme: #d93f30;
+$color-text: #fff;
+$color-text-d: rgba(255, 255, 255, 0.3);
+$color-text-l: rgba(255, 255, 255, 0.5);
+$color-text-ll: rgba(255, 255, 255, 0.8);
+//定义字体规范
+$font-size-small-s: 10px;
+$font-size-small: 12px;
+$font-size-medium: 14px;
+$font-size-medium-x: 16px;
+$font-size-large: 18px;
+$font-size-20: 20px; // 标签/角标
+$font-size-24: 24px; // 摘要 次要信息
+$font-size-26: 26px; // 列表主要内容
+$font-size-28: 28px; // 主要内容 提示文字 卡片按钮方案
+$font-size-30: 30px; // 
+$font-size-32: 32px; // 二级标题 列表 输入框文案
+$font-size-34: 34px;
+$font-size-36: 36px; // 一级标题 导航栏标题 正常按钮文案
+$font-size-38: 38px; // 
+$font-size-40: 40px;
+$font-size-44: 44px; // Tab页标题
+$font-size-52: 52px; // 大标题 引导文案
+$font-size-60: 60px; // 结果页大标题
+// NavBar
+$nav-bar-background-color: $blue;
+$nav-bar-title-text-color: $white;

@@ -1,0 +1,112 @@
+{
+    "diagScore": 0,
+    "quotaDiagReport": {
+        "startUseCreditCardTime": 0,
+        "quotaDiagScore": 0,
+        "monthOverdue": [],
+        "forecastProPercent": 0,
+        "forecastQuotaProDate": 0,
+        "bankRules": [],
+        "quotaRatioInformation": {
+            "quotaRatioOfYear": 0,
+            "monthlyQuotaRatio": []
+        },
+        "overdueTime": 0
+    },
+    "consumptionDiagReport": {
+        "lessThan4999Percent": 0,
+        "averageTimes": 0,
+        "monthRay1": {
+            "money": 0,
+            "count": 0
+        },
+        "consumptionDiagScore": 0,
+        "yearPosPayCount": 0,
+        "yearEPayCount": 0,
+        "yearPosPayMoney": 0,
+        "yearOtherPayMoney": 0,
+        "yearOtherPayPercent": 0,
+        "lessThan1000Count": 0,
+        "averageMoney": 0,
+        "greaterThan5000Percent": 0,
+        "totalMoney": 0,
+        "greaterThan5000Count": 0,
+        "monthRay6": {
+            "money": 0,
+            "count": 0
+        },
+        "monthDataList": [],
+        "monthRay3": {
+            "money": 0,
+            "count": 0
+        },
+        "totalCount": 0,
+        "lessThan4999Count": 0,
+        "yearEPayPercent": 0,
+        "yearPosPayPercent": 0,
+        "yearEPayMoney": 0,
+        "yearOtherPayCount": 0,
+        "lessThan1000Percent": 0
+    },
+    "diagTime": 0,
+    "repaymentDiagReport": {
+        "totalRepaymentMoney": 0,
+        "totalRepaymentTime": 0,
+        "averageRepaymentMoney": 0,
+        "inFullRepaymentTime": 0,
+        "monthRepaymentData": [],
+        "inFullRepaymentPercent": 0,
+        "minimumRepaymentTime": 0,
+        "afterBillDateRepaymentTime": 0,
+        "averageRepaymentTime": 0,
+        "beforeBillDateRepaymentTime": 0,
+        "repaymentDiagScore": 0,
+        "quotaRetentionRateInformation": {
+            "quotaRatioOfYear": 0,
+            "monthlyQuotaRatio": []
+        }
+    },
+    "creditCard": {
+        "availableQuota": 0,
+        "isManual": 0,
+        "cardPoints": 0,
+        "isProplan": 0,
+        "billDate": 0,
+        "userId": 0,
+        "isHide": 0,
+        "bankId": 0,
+        "isDiagnosis": 0,
+        "tBank": {
+            "bankId": 0,
+            "bankBg": "",
+            "bankStatus": 0,
+            "otherId": 0,
+            "bankName": "",
+            "iconBg": "",
+            "maxQuota": 0,
+            "autoImportStatus": 0,
+            "averageQuota": 0,
+            "bankVal": "",
+            "manualImportStatus": 0,
+            "bankIcon": ""
+        },
+        "bindTime": 0,
+        "proPlanTypeId": 0,
+        "quota": 0,
+        "isTurnover": 0,
+        "paystatus": 0,
+        "repayDate": 0,
+        "cardNumber": "",
+        "cardStatus": 0,
+        "cid": 0,
+        "quotaChangeList": []
+    },
+    "otherDiagReport": {
+        "cardHighestPro": 0,
+        "quotaRatioInformation": {
+            "quotaRatioOfYear": 0,
+            "monthlyQuotaRatio": []
+        },
+        "cardAverageQuota": 0
+    }
+}
